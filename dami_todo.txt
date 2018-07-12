@@ -1,0 +1,8 @@
+DAMI TODO
+- Get data sets
+	- Iris
+	- Zoo DONE
+	- Cijfer herkenning
+- Voorbeeld applicaties runnen
+- SVG text & bitmap (max 1 second delay)
+- Investigate matplotlib interactive visualisation posibilities
