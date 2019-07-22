@@ -1,0 +1,59 @@
+
+Machine learning
+Discrete vs continuous labels
+
+
+
+Supervised learning : Models that can predict labels based on labeled training data
+- Classification: Models that predict labels as two or more discrete categories
+- Regression: Models that predict continuous labels
+
+Unsupervised learning : Models that identify structure in unlabeled data
+- Clustering: Data assigned to numer of discrete groups
+- Dimensionality reduction: Inferring sturcture of unlabeled data
+
+SOM
+- Reduces dimensionality using self-organizing clustering neural network
+- Humans can't visualize high dimensional data
+
+U-matrix = unified distance matrix
+
+Somoclu = SOM on a cluster
+
+Codebooks
+
+SOM
+Input layer
+Weights
+Kohonen layer = neural processing units, weights per each input
+
+Steps
+1) Initialize neural network weights
+2) Randomly select an input
+3) Calculate winner using euclidean distance
+4) Update weights based on winner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

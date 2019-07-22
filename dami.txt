@@ -1,0 +1,72 @@
+Self organizing map
+
+Neural network that visualizes the (unknown) structure of data sets. Interactie -> what a hidden layer in a neural network has learned.
+
+Such a facility would increase the insight in a data set, not only by seeing its (static) structure but also getting hints for the model’s weaknesses by interacting with it. 
+
+Import
+Tidy
+Loop: Understand
+	Transform
+	Visualize
+	Model
+Communicate
+
+Earlier versions of neural networks such as the first perceptrons were shallow, composed of one input and one output layer, and at most one hidden layer in between. More than three layers (including input and output) qualifies as “deep” learning. So deep is not just a buzzword to make algorithms seem like they read Sartre and listen to bands you haven’t heard of yet. It is a strictly defined term that means more than one hidden layer.
+
+Neural network -> Most basic form = perceptron
+
+A perceptron has one or more inputs, a bias, an activation function, and a single output
+
+2D output -> SVG interactief met info
+SOMOCLU voor SOM training
+
+
+
+Learning goals:
+    Understand, apply and prepare data for well-known machine learning algorithms.
+    Evaluate fitness and performance of a machine learning algorithm.
+    Conduct evidence based and reproducible data research.
+
+
+Opdracht
+1) CSV inlezen
+2) Tidy
+
+
+
+x) Visualiseren
+ - Matplotlib
+
+
+Perceptron
+1) Sum weighted inputs (input1 * weight1 + input2 * weight2)
+2) Activation function
+
+
+Supervised learning -> error = target - guess
+output -> Change weight, Delta in weight = Error * input * learning rate
+
+bias -> y = a * x + bias  
+
+gradient descent
+
+Unsupervised learning -> Unlabelled data
+
+
+Vraag -> Waarom wil je weten wat het algoritme geleerd heeft, zonder labels heeft dit toch geen waarde voor eindgebruikers?
+
+flat clusters (x number of clusters)
+hierachical clusters (machine figures out number of groups)
+
+ 
+Competitive learning
+
+Sparse vs dense data??
+
+Neighborhood function
+
+BMU = best matching unit
+
+Emergent self organizing map = # neurons = at least 5x # data points
+
