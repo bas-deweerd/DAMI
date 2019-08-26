@@ -2,8 +2,6 @@
 Machine learning
 Discrete vs continuous labels
 
-
-
 Supervised learning : Models that can predict labels based on labeled training data
 - Classification: Models that predict labels as two or more discrete categories
 - Regression: Models that predict continuous labels
